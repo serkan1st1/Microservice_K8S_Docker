@@ -1,3 +1,0 @@
-[submodule "microservicesApp/PlatformService"]
-	path = microservicesApp/PlatformService
-	url = https://github.com/serkan1st1/Microservices_PlatformService.git
